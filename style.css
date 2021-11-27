@@ -34,6 +34,10 @@
   margin: 0 auto 0;
 }
 
+#topSectionForAddingElementToList {
+    margin: 16px 0;
+}
+
 .task {
   width: 56%;
   display: inline-block;
@@ -169,4 +173,8 @@ button {
 
 .editMode .task-label {
   display: none;
+}
+
+.hide {
+    display: none;
 }
