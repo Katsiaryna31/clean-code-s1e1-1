@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.head .more_inf {
+.head .more_info {
   font-family: fantasy, cursive;
 }
 
@@ -28,13 +28,13 @@
 
 }
 
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
 
-#topSectionForAddingElementToList {
+#add-elements {
     margin: 16px 0;
 }
 
@@ -44,7 +44,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 
