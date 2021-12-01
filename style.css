@@ -47,9 +47,6 @@
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #ddd;
-  background: #fff;
-  border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
 }
@@ -111,6 +108,9 @@ button {
 
 .main__new-task {
   width: 318px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 6px;
 }
 
 /* Task list */
@@ -167,6 +167,9 @@ button {
 .main__task-item_edit-mode .main__task-text {
   display: inline-block;
   width: 224px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 6px;
 }
 
 .main__task-item_edit-mode .main__task-label {
